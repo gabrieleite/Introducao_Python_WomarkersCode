@@ -38,7 +38,7 @@ while opcao != 3:
 
 print("---------------------------------------")
 print("Muito obrigada, volte sempre que quiser! :)")
-print("O menu foi exibido", contador, "vez(es)!") 
+print("O menu foi exibido", contador, "vez(es)! :)") 
     
 
     
