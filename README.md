@@ -11,6 +11,8 @@ Este projeto tem como objetivo praticar:
 - Estruturas condicionais
 - Laços de repetição
 - Funções
+- Manipulação de Arquivos
+- Tratamento de Erros (try/except/finally)
 
 ---
 

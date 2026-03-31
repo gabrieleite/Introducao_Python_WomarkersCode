@@ -1,0 +1,4 @@
+Olá, eu sou a Gabi!
+Nesse curso tive a oportunidade de aprender o básico de Python!
+Aprendi conceitos básicos, laços, funções, estrutura de dados e armazenamento de arquivos
+Aprendi também tratamento de erros!
